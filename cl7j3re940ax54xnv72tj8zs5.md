@@ -1,7 +1,5 @@
 ## Should I adopt Service Oriented Architecture (SOA)?
 
-This article was originally published [here](https://celeroncoder.github.io/blog/posts/should-i-adopt-service-oriented-architecture-soa/).
-
 The main principle of Service-Oriented Architecture is to **segregate the concerns to move the business logic and the vulnerable data layer off to the API routes directly. In this, we isolate different parts of the logic in such a way that makes sense.**
 
 In this three layer or tier system we usually divide the logic of a route or a function of the application into Controller, Service, and Data Access Layer.
